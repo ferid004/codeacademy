@@ -63,11 +63,33 @@ button>p{
 /* birnici section bitdi */
 
 
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.box {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    
+}
+
+.box img {
+    max-width: 100%;
+    height: auto;
+}
+
+.box p {
+    margin-top: 10px;
+    width: 400px;
+}
+/* ============== */
 
 
-
-
-.best_food{
+ .best_food{
     background-color: #D7E5CA;
 }
 .section-2{
@@ -81,7 +103,7 @@ button>p{
     padding: auto;
     text-align: center;
 }
-.main_div{
+/* .main_div{
     display: inline;
     font-size: 20px;
     margin: 10px;
@@ -97,4 +119,4 @@ button>p{
     
 
 
-}
+} */

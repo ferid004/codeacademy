@@ -66,24 +66,26 @@ button>p{
 .container {
     display: flex;
     justify-content: space-between;
-    padding: 20px;
+    padding: 20px 70px;
+    min-height: 0px;
+    
 }
 
 .box {
     text-align: center;
-    padding: 20px;
+    padding: 30px;
     background-color: aliceblue;
 
 }
 
 .box img {
     max-width: 100%;
-    height: auto;
+    max-height: auto;
 }
 
 .box p {
     margin-top: 10px;
-    width: 400px;
+    width: 350px;
     font-size: 24px;
     font-family: thin;
 }

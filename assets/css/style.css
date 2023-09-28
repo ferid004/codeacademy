@@ -62,11 +62,26 @@ button>p{
 
 /* birnici section bitdi */
 
-
+/* ikici hisseye giris */
+.best_food{
+   background-color: #D7E5CA;
+}
+.section-2{
+   color: black;
+   font-size: 45px;
+   margin: auto;
+}
+.main_p{
+   color: black;
+   font-size: 25px;
+   padding: auto;
+   text-align: center;
+}
+/*  kart yartmaqa cailsisram */
 .container {
     display: flex;
     justify-content: space-between;
-    padding: 20px 70px;
+    padding: 0px 70px;
     min-height: 0px;
     
 }
@@ -96,20 +111,11 @@ button>p{
 /* ============== */
 
 
- .best_food{
-    background-color: #D7E5CA;
-}
-.section-2{
-    color: black;
-    font-size: 45px;
-    margin: auto;
-}
-.main_p{
-    color: black;
-    font-size: 25px;
-    padding: auto;
-    text-align: center;
-}
+
+/* 
+########################################
+kohne kod 
+####################################### */
 /* .main_div{
     display: inline;
     font-size: 20px;
